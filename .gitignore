@@ -1,0 +1,10 @@
+tests/
+.DS_Store
+compile_commands.json
+Makefile
+.cache/
+.clangd
+scripts/
+*.x
+*.o
+
